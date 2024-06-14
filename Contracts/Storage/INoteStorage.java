@@ -7,6 +7,6 @@ import Contracts.DataModels.INoteModel;
 public interface INoteStorage {
     void addNote(INoteModel note);
     List<INoteModel> getNotes();
-    int count();
+    // int count();
     //INoteModel getMostRecentNote();
 }
