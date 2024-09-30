@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
-    <mxGraphModel dx="600" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="3a17f1ce550125da-21" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="550" as="sourcePoint" />
+            <mxPoint x="580" y="550" as="sourcePoint" />
             <mxPoint x="787" y="550" as="targetPoint" />
             <Array as="points">
               <mxPoint x="740" y="550" />
@@ -131,7 +131,7 @@
         </mxCell>
         <mxCell id="reBWG6Oo8zOQLaoW1JOB-19" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="589.71" as="sourcePoint" />
+            <mxPoint x="580" y="590" as="sourcePoint" />
             <mxPoint x="787" y="589.71" as="targetPoint" />
             <Array as="points">
               <mxPoint x="740" y="589.71" />
@@ -141,7 +141,7 @@
         </mxCell>
         <mxCell id="reBWG6Oo8zOQLaoW1JOB-20" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="634" as="sourcePoint" />
+            <mxPoint x="580" y="634" as="sourcePoint" />
             <mxPoint x="787" y="634" as="targetPoint" />
             <Array as="points">
               <mxPoint x="740" y="634" />
@@ -149,8 +149,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="reBWG6Oo8zOQLaoW1JOB-21" value="Потребность оформить интерьер уникально" style="text;strokeColor=none;fillColor=none;html=1;fontSize=9;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="660" y="510" width="60" height="20" as="geometry" />
+        <mxCell id="reBWG6Oo8zOQLaoW1JOB-21" value="Потребность оформить интерьер" style="text;strokeColor=none;fillColor=none;html=1;fontSize=9;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="650" y="520" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="reBWG6Oo8zOQLaoW1JOB-23" value="Потребность в уникальном подарке" style="text;strokeColor=none;fillColor=none;html=1;fontSize=9;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="650" y="560" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="reBWG6Oo8zOQLaoW1JOB-25" value="Потребность для фиксации важного момента в жизни,&lt;br&gt;&amp;nbsp;изображение портрета" style="text;strokeColor=none;fillColor=none;html=1;fontSize=9;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="630" y="610" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
